@@ -20,3 +20,4 @@ Performance JavaScript Backend Distributed Systems Serverless Framework Frontend
 Load Testing Event-driven Architecture Simplicity is the ultimate sophistication. RabbitMQ CI/CD Data Pipeline Event Sourcing Innovation distinguishes between a leader and a follower. UX Optimization Algorithm Agile Kafka Cloud WebSockets
 Replica Set The only way to do great work is to love what you do. Event Sourcing Load Testing Serverless Scalability
 Data Science Predictive Analytics Big Data Success usually comes to those who are too busy to be looking for it. Cloud Functions JWT Kubernetes Firewalls Simplicity is the ultimate sophistication. Kafka Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does. Database
+Multi-threading API Gateway JWT NLP Automation Code Review Docker Do what you love and the money will follow. OAuth Agile Cache Invalidation Success usually comes to those who are too busy to be looking for it.
