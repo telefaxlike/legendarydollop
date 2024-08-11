@@ -19,3 +19,4 @@ JavaScript Database Indexing Virtual Machines API Simplicity is the ultimate sop
 NLP Kafka Dream big and dare to fail. Do what you love and the money will follow. Load Balancing JWT CI/CD Edge Computing
 Content Delivery Network Great things never come from comfort zones. Container Orchestration API Monitoring Kubernetes Innovation distinguishes between a leader and a follower. Deployment Microservices Docker Agile Python Cache Invalidation Backend React
 Dream big and dare to fail. Data Science Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. Data Pipeline
+IoT Replica Set Virtual Machines API Load Testing Success is how high you bounce when you hit bottom. Blockchain Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Scalability
