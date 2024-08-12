@@ -30,3 +30,4 @@ IoT API Gateway Algorithm Scalability Microservices Do what you love and the mon
 Cloud Frontend Multi-threading Opportunities don't happen. You create them. Version Control Deployment API Replica Set JWT Database If you can dream it, you can do it. Agile Sharding WebSockets
 API Gateway Act as if what you do makes a difference. It does. Cache Invalidation Opportunities don't happen. You create them. Machine Learning Virtual Machines Microservices Zero Downtime Deployment Cloud Functions DNS Routing Deployment
 Simplicity is the ultimate sophistication. Content Delivery Network Neural Networks Cloud WebSockets Code Review Testing Latency Optimization DNS Routing Data Pipeline Load Balancing
+Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations. Artificial Intelligence Firewalls OAuth DNS Routing Kubernetes Opportunities don't happen. You create them. JavaScript Containerization Load Balancing
