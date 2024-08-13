@@ -15,3 +15,4 @@ Parallel Processing Testing JavaScript Success usually comes to those who are to
 Performance Distributed Systems Load Testing Optimization Predictive Analytics Firewalls Algorithm Data Science Content Delivery Network NLP Stay hungry, stay foolish. Cloud Automation
 Lambda Functions Distributed Systems Performance Event-driven Architecture To be the best, you must be able to handle the worst. UX Optimization OAuth Docker Agile
 Multi-threading Docker JWT Replica Set Happiness is not something ready made. It comes from your own actions. Lambda Functions Database Do what you love and the money will follow.
+Database Indexing DNS Routing Server Response Kafka Do what you love and the money will follow. Kubernetes Edge Computing Success doesn’t just find you. You have to go out and get it. API Gateway JavaScript
