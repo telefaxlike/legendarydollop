@@ -13,3 +13,4 @@ Work hard in silence, let your success be your noise. Artificial Intelligence In
 Simplicity is the ultimate sophistication. Lambda Functions Kafka Code Review NLP Automation IoT Difficult roads often lead to beautiful destinations.
 Cache Invalidation Containerization Sharding Serverless Version Control I find that the harder I work, the more luck I seem to have.
 IoT Lambda Functions Quantum Computing Parallel Processing Performance Code Review Database Indexing Message Queue Blockchain Frontend Kubernetes
+JWT Predictive Analytics If you can dream it, you can do it. API Gateway Machine Learning NLP API Opportunities don't happen. You create them. Optimization Load Testing Deployment Dream big and dare to fail. Great things never come from comfort zones. Load Balancing
