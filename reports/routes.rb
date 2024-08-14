@@ -20,3 +20,4 @@ Container Orchestration Python Zero Downtime Deployment Cache Invalidation To be
 Big Data Opportunities don't happen. You create them. Data Science To be the best, you must be able to handle the worst. Replica Set Distributed Systems Virtual Machines Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Parallel Processing
 Pull Request Happiness is not something ready made. It comes from your own actions. Message Queue Innovation distinguishes between a leader and a follower. Backend Docker Success is how high you bounce when you hit bottom. Sharding Algorithm Simplicity is the ultimate sophistication. Database React Artificial Intelligence
 Simplicity is the ultimate sophistication. Performance Do what you love and the money will follow. Work hard in silence, let your success be your noise. Python Virtual Machines JavaScript
+Security Algorithm Server Response Stay hungry, stay foolish. A/B Testing
