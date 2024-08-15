@@ -24,3 +24,4 @@ Cloud Automation Database Indexing Edge Computing RabbitMQ Testing Stay hungry, 
 Innovation distinguishes between a leader and a follower. Framework Lambda Functions Python Firewalls Frontend WebSockets Agile Event-driven Architecture Database Sharding
 Logging NLP Parallel Processing UX Optimization I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment
 Big Data Machine Learning Success doesn’t just find you. You have to go out and get it. Docker A/B Testing Zero Downtime Deployment DNS Routing Python
+Don't be afraid to give up the good to go for the great. Sharding Load Testing Backend I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. Container Orchestration WebSockets Version Control Load Balancing Performance IoT Event-driven Architecture

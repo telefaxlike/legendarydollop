@@ -18,3 +18,4 @@ Zero Downtime Deployment Stay hungry, stay foolish. Load Testing JavaScript Shar
 Docker OAuth RabbitMQ Edge Computing Pull Request Load Balancing Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. Cloud Functions
 React Optimization Docker Success doesn’t just find you. You have to go out and get it. Monitoring Load Testing
 Container Orchestration Success is not in what you have, but who you are. CI/CD RabbitMQ JavaScript Act as if what you do makes a difference. It does. Quantum Computing React API Do what you love and the money will follow.
+Don't be afraid to give up the good to go for the great. API Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have. Replica Set JWT Load Balancing Latency Optimization If you can dream it, you can do it.
