@@ -24,3 +24,4 @@ IoT Don't be afraid to give up the good to go for the great. Containerization Co
 Act as if what you do makes a difference. It does. Kubernetes Do what you love and the money will follow. GraphQL Cloud Dream big and dare to fail. Load Testing A/B Testing Success usually comes to those who are too busy to be looking for it. Event-driven Architecture
 Framework Database Indexing IoT Big Data Version Control CI/CD Quantum Computing Pull Request
 CI/CD Load Testing A/B Testing Happiness is not something ready made. It comes from your own actions. Testing Container Orchestration DNS Routing
+Act as if what you do makes a difference. It does. Stay hungry, stay foolish. Latency Optimization Quantum Computing Load Balancing I find that the harder I work, the more luck I seem to have. Load Testing The only way to do great work is to love what you do. Parallel Processing Cloud Happiness is not something ready made. It comes from your own actions. Agile Logging
