@@ -30,3 +30,4 @@ Agile Lambda Functions Happiness is not something ready made. It comes from your
 API I find that the harder I work, the more luck I seem to have. Microservices Distributed Systems Frontend Dream big and dare to fail. React Database Indexing Kubernetes Algorithm Scalability
 OAuth Success usually comes to those who are too busy to be looking for it. WebSockets Kafka GraphQL Server Response Event-driven Architecture
 Latency Optimization Container Orchestration React Python Machine Learning Event-driven Architecture JavaScript To be the best, you must be able to handle the worst. Success is not in what you have, but who you are. Pull Request Predictive Analytics Dream big and dare to fail. Do what you love and the money will follow. API
+Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. Replica Set Success doesn’t just find you. You have to go out and get it. Containerization
