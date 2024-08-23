@@ -25,3 +25,4 @@ Dream big and dare to fail. Docker Parallel Processing Backend Great things neve
 Algorithm Machine Learning Cloud Content Delivery Network I find that the harder I work, the more luck I seem to have.
 Data Pipeline Microservices Blockchain Success is how high you bounce when you hit bottom. Scalability Don't be afraid to give up the good to go for the great. Lambda Functions Optimization Cloud Python Opportunities don't happen. You create them. Neural Networks Big Data Automation CI/CD
 Event Sourcing IoT Optimization UX Optimization OAuth DevOps Sharding Neural Networks Blockchain Edge Computing
+Code Review GraphQL DevOps Quantum Computing Zero Downtime Deployment API JWT Cache Invalidation
