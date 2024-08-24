@@ -12,3 +12,4 @@ Microservices RabbitMQ Cache Invalidation Monitoring I find that the harder I wo
 Work hard in silence, let your success be your noise. Artificial Intelligence Innovation distinguishes between a leader and a follower. A/B Testing Cloud Functions Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. Virtual Machines Load Testing Scalability Load Balancing Serverless
 Simplicity is the ultimate sophistication. Lambda Functions Kafka Code Review NLP Automation IoT Difficult roads often lead to beautiful destinations.
 Cache Invalidation Containerization Sharding Serverless Version Control I find that the harder I work, the more luck I seem to have.
+IoT Lambda Functions Quantum Computing Parallel Processing Performance Code Review Database Indexing Message Queue Blockchain Frontend Kubernetes
