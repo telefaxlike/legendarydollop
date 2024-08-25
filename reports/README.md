@@ -24,3 +24,4 @@ Predictive Analytics Difficult roads often lead to beautiful destinations. Zero 
 Dream big and dare to fail. Docker Parallel Processing Backend Great things never come from comfort zones. Load Balancing Do what you love and the money will follow. DevOps NLP Work hard in silence, let your success be your noise. Multi-threading
 Algorithm Machine Learning Cloud Content Delivery Network I find that the harder I work, the more luck I seem to have.
 Data Pipeline Microservices Blockchain Success is how high you bounce when you hit bottom. Scalability Don't be afraid to give up the good to go for the great. Lambda Functions Optimization Cloud Python Opportunities don't happen. You create them. Neural Networks Big Data Automation CI/CD
+Event Sourcing IoT Optimization UX Optimization OAuth DevOps Sharding Neural Networks Blockchain Edge Computing

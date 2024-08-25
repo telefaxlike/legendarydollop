@@ -16,3 +16,4 @@ Do what you love and the money will follow. WebSockets Algorithm Distributed Sys
 Blockchain React API The only way to do great work is to love what you do. Zero Downtime Deployment Kafka
 Monitoring Code Review Lambda Functions Version Control Parallel Processing Content Delivery Network API RabbitMQ Frontend Scalability Latency Optimization Dream big and dare to fail.
 Data Science Deployment Success is not in what you have, but who you are. Do what you love and the money will follow. Big Data
+Cloud Functions Server Response JavaScript Great things never come from comfort zones. Monitoring Content Delivery Network
