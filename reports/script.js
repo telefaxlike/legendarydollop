@@ -18,3 +18,4 @@ Server Response Happiness is not something ready made. It comes from your own ac
 DevOps React Great things never come from comfort zones. Sharding Kubernetes Data Pipeline If you can dream it, you can do it. Pull Request Difficult roads often lead to beautiful destinations. Message Queue Data Science Deployment Opportunities don't happen. You create them. Firewalls
 Performance JavaScript Backend Distributed Systems Serverless Framework Frontend Don't be afraid to give up the good to go for the great. A/B Testing Testing
 Load Testing Event-driven Architecture Simplicity is the ultimate sophistication. RabbitMQ CI/CD Data Pipeline Event Sourcing Innovation distinguishes between a leader and a follower. UX Optimization Algorithm Agile Kafka Cloud WebSockets
+Replica Set The only way to do great work is to love what you do. Event Sourcing Load Testing Serverless Scalability

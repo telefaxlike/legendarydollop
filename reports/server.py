@@ -28,3 +28,4 @@ Database Multi-threading Success is not in what you have, but who you are. JavaS
 Do what you love and the money will follow. DNS Routing Big Data Multi-threading Microservices Blockchain Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Optimization Server Response Agile
 IoT API Gateway Algorithm Scalability Microservices Do what you love and the money will follow.
 Cloud Frontend Multi-threading Opportunities don't happen. You create them. Version Control Deployment API Replica Set JWT Database If you can dream it, you can do it. Agile Sharding WebSockets
+API Gateway Act as if what you do makes a difference. It does. Cache Invalidation Opportunities don't happen. You create them. Machine Learning Virtual Machines Microservices Zero Downtime Deployment Cloud Functions DNS Routing Deployment
