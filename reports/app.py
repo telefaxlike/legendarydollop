@@ -23,3 +23,4 @@ Algorithm Cloud Functions Act as if what you do makes a difference. It does. Dat
 Cloud Automation Database Indexing Edge Computing RabbitMQ Testing Stay hungry, stay foolish. Microservices Optimization JWT DNS Routing Big Data Python Latency Optimization The only way to do great work is to love what you do.
 Innovation distinguishes between a leader and a follower. Framework Lambda Functions Python Firewalls Frontend WebSockets Agile Event-driven Architecture Database Sharding
 Logging NLP Parallel Processing UX Optimization I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment
+Big Data Machine Learning Success doesn’t just find you. You have to go out and get it. Docker A/B Testing Zero Downtime Deployment DNS Routing Python

@@ -27,3 +27,4 @@ Virtual Machines Innovation distinguishes between a leader and a follower. Conta
 Database Multi-threading Success is not in what you have, but who you are. JavaScript Stay hungry, stay foolish. Data Science
 Do what you love and the money will follow. DNS Routing Big Data Multi-threading Microservices Blockchain Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Optimization Server Response Agile
 IoT API Gateway Algorithm Scalability Microservices Do what you love and the money will follow.
+Cloud Frontend Multi-threading Opportunities don't happen. You create them. Version Control Deployment API Replica Set JWT Database If you can dream it, you can do it. Agile Sharding WebSockets
