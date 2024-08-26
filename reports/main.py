@@ -17,3 +17,4 @@ DevOps IoT Great things never come from comfort zones. Cache Invalidation Cloud 
 Zero Downtime Deployment Stay hungry, stay foolish. Load Testing JavaScript Sharding Algorithm Cloud Functions IoT Framework Simplicity is the ultimate sophistication. Optimization Big Data Kafka Don't be afraid to give up the good to go for the great. Replica Set
 Docker OAuth RabbitMQ Edge Computing Pull Request Load Balancing Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. Cloud Functions
 React Optimization Docker Success doesn’t just find you. You have to go out and get it. Monitoring Load Testing
+Container Orchestration Success is not in what you have, but who you are. CI/CD RabbitMQ JavaScript Act as if what you do makes a difference. It does. Quantum Computing React API Do what you love and the money will follow.
