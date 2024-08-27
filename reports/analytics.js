@@ -18,3 +18,4 @@ Load Testing NLP UX Optimization Optimization Scalability Success usually comes 
 Code Review Distributed Systems Kafka Virtual Machines Microservices Frontend Success is how high you bounce when you hit bottom. Load Balancing I find that the harder I work, the more luck I seem to have. Cloud Functions Edge Computing Kubernetes Data Pipeline
 Logging API OAuth Load Balancing JavaScript Quantum Computing
 Firewalls Version Control API Code Review Act as if what you do makes a difference. It does. Do what you love and the money will follow. Database IoT UX Optimization Optimization Database Indexing Testing Python
+Act as if what you do makes a difference. It does. React Happiness is not something ready made. It comes from your own actions. Content Delivery Network Backend Work hard in silence, let your success be your noise. Edge Computing Difficult roads often lead to beautiful destinations.
