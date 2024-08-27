@@ -17,3 +17,4 @@ NLP GraphQL Backend Database Scalability
 Load Testing NLP UX Optimization Optimization Scalability Success usually comes to those who are too busy to be looking for it. Microservices API Gateway CI/CD I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. Pull Request Predictive Analytics Message Queue
 Code Review Distributed Systems Kafka Virtual Machines Microservices Frontend Success is how high you bounce when you hit bottom. Load Balancing I find that the harder I work, the more luck I seem to have. Cloud Functions Edge Computing Kubernetes Data Pipeline
 Logging API OAuth Load Balancing JavaScript Quantum Computing
+Firewalls Version Control API Code Review Act as if what you do makes a difference. It does. Do what you love and the money will follow. Database IoT UX Optimization Optimization Database Indexing Testing Python
