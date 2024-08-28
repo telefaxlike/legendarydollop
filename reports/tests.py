@@ -23,3 +23,4 @@ Code Review DNS Routing Event-driven Architecture Don't be afraid to give up the
 Act as if what you do makes a difference. It does. Containerization Predictive Analytics Happiness is not something ready made. It comes from your own actions. Big Data Quantum Computing Framework Data Pipeline Security Pull Request
 Replica Set Container Orchestration Firewalls Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Kafka React Lambda Functions Automation Zero Downtime Deployment
 JavaScript Lambda Functions GraphQL Blockchain Quantum Computing
+JWT Microservices OAuth Virtual Machines Agile The only way to do great work is to love what you do. React Don't be afraid to give up the good to go for the great. NLP Scalability Parallel Processing
