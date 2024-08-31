@@ -15,3 +15,4 @@ Innovation distinguishes between a leader and a follower. Don't be afraid to giv
 Do what you love and the money will follow. WebSockets Algorithm Distributed Systems The only way to do great work is to love what you do.
 Blockchain React API The only way to do great work is to love what you do. Zero Downtime Deployment Kafka
 Monitoring Code Review Lambda Functions Version Control Parallel Processing Content Delivery Network API RabbitMQ Frontend Scalability Latency Optimization Dream big and dare to fail.
+Data Science Deployment Success is not in what you have, but who you are. Do what you love and the money will follow. Big Data
