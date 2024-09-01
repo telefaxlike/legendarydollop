@@ -21,3 +21,4 @@ Distributed Systems Machine Learning Simplicity is the ultimate sophistication. 
 Success is how high you bounce when you hit bottom. A/B Testing WebSockets JavaScript DNS Routing Scalability UX Optimization Database Indexing
 Algorithm Cloud Functions Act as if what you do makes a difference. It does. Data Pipeline Container Orchestration Serverless GraphQL Blockchain Dream big and dare to fail.
 Cloud Automation Database Indexing Edge Computing RabbitMQ Testing Stay hungry, stay foolish. Microservices Optimization JWT DNS Routing Big Data Python Latency Optimization The only way to do great work is to love what you do.
+Innovation distinguishes between a leader and a follower. Framework Lambda Functions Python Firewalls Frontend WebSockets Agile Event-driven Architecture Database Sharding
