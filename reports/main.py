@@ -16,3 +16,4 @@ Automation Lambda Functions NLP I find that the harder I work, the more luck I s
 DevOps IoT Great things never come from comfort zones. Cache Invalidation Cloud Functions
 Zero Downtime Deployment Stay hungry, stay foolish. Load Testing JavaScript Sharding Algorithm Cloud Functions IoT Framework Simplicity is the ultimate sophistication. Optimization Big Data Kafka Don't be afraid to give up the good to go for the great. Replica Set
 Docker OAuth RabbitMQ Edge Computing Pull Request Load Balancing Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. Cloud Functions
+React Optimization Docker Success doesn’t just find you. You have to go out and get it. Monitoring Load Testing
