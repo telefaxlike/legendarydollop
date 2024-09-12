@@ -14,3 +14,4 @@ Firewalls Great things never come from comfort zones. Monitoring Latency Optimiz
 Parallel Processing Testing JavaScript Success usually comes to those who are too busy to be looking for it. Opportunities don't happen. You create them. Content Delivery Network
 Performance Distributed Systems Load Testing Optimization Predictive Analytics Firewalls Algorithm Data Science Content Delivery Network NLP Stay hungry, stay foolish. Cloud Automation
 Lambda Functions Distributed Systems Performance Event-driven Architecture To be the best, you must be able to handle the worst. UX Optimization OAuth Docker Agile
+Multi-threading Docker JWT Replica Set Happiness is not something ready made. It comes from your own actions. Lambda Functions Database Do what you love and the money will follow.
