@@ -24,3 +24,4 @@ Container Orchestration Data Science Replica Set Kafka Backend If you can dream 
 Stay hungry, stay foolish. IoT Framework Data Pipeline Distributed Systems Performance Blockchain WebSockets Python RabbitMQ Database Security Artificial Intelligence OAuth Database Indexing
 Testing WebSockets Multi-threading Version Control I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Do what you love and the money will follow. Success is not in what you have, but who you are. API Gateway Machine Learning Security Performance Docker
 Virtual Machines Innovation distinguishes between a leader and a follower. Container Orchestration DNS Routing Firewalls Database Data Science Load Balancing Algorithm Happiness is not something ready made. It comes from your own actions. React
+Database Multi-threading Success is not in what you have, but who you are. JavaScript Stay hungry, stay foolish. Data Science

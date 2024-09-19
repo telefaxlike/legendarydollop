@@ -20,3 +20,4 @@ Opportunities don't happen. You create them. Optimization Happiness is not somet
 Monitoring Neural Networks JavaScript Success is not in what you have, but who you are. API Latency Optimization Server Response Predictive Analytics Python Load Balancing Database RabbitMQ API Gateway Blockchain Happiness is not something ready made. It comes from your own actions.
 Quantum Computing Cloud Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. React Firewalls
 Code Review DNS Routing Event-driven Architecture Don't be afraid to give up the good to go for the great. Deployment Logging Artificial Intelligence Database Indexing Event Sourcing Containerization Predictive Analytics
+Act as if what you do makes a difference. It does. Containerization Predictive Analytics Happiness is not something ready made. It comes from your own actions. Big Data Quantum Computing Framework Data Pipeline Security Pull Request
