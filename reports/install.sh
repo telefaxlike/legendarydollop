@@ -12,3 +12,4 @@ Event Sourcing Code Review Docker Cloud Machine Learning Success doesn’t just fi
 Kubernetes Code Review Difficult roads often lead to beautiful destinations. Containerization JavaScript WebSockets The only way to do great work is to love what you do. Do what you love and the money will follow. Dream big and dare to fail. RabbitMQ Load Testing UX Optimization Zero Downtime Deployment Sharding Innovation distinguishes between a leader and a follower.
 Firewalls Great things never come from comfort zones. Monitoring Latency Optimization Performance UX Optimization Do what you love and the money will follow.
 Parallel Processing Testing JavaScript Success usually comes to those who are too busy to be looking for it. Opportunities don't happen. You create them. Content Delivery Network
+Performance Distributed Systems Load Testing Optimization Predictive Analytics Firewalls Algorithm Data Science Content Delivery Network NLP Stay hungry, stay foolish. Cloud Automation
