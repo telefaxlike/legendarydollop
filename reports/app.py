@@ -19,3 +19,4 @@ Server Response Difficult roads often lead to beautiful destinations. Data Scien
 Containerization Pull Request Logging Python Happiness is not something ready made. It comes from your own actions. Version Control Lambda Functions Firewalls Innovation distinguishes between a leader and a follower. Machine Learning Optimization Edge Computing Testing
 Distributed Systems Machine Learning Simplicity is the ultimate sophistication. Cache Invalidation Agile Python Cloud Functions Backend Replica Set NLP I find that the harder I work, the more luck I seem to have. Content Delivery Network Cloud Lambda Functions
 Success is how high you bounce when you hit bottom. A/B Testing WebSockets JavaScript DNS Routing Scalability UX Optimization Database Indexing
+Algorithm Cloud Functions Act as if what you do makes a difference. It does. Data Pipeline Container Orchestration Serverless GraphQL Blockchain Dream big and dare to fail.
