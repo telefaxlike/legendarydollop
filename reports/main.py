@@ -14,3 +14,4 @@ Algorithm Load Testing Pull Request Database Indexing Predictive Analytics Messa
 UX Optimization Content Delivery Network If you can dream it, you can do it. Agile Quantum Computing Machine Learning Success is not in what you have, but who you are. JWT Stay hungry, stay foolish. Logging Microservices Lambda Functions
 Automation Lambda Functions NLP I find that the harder I work, the more luck I seem to have. Machine Learning JavaScript
 DevOps IoT Great things never come from comfort zones. Cache Invalidation Cloud Functions
+Zero Downtime Deployment Stay hungry, stay foolish. Load Testing JavaScript Sharding Algorithm Cloud Functions IoT Framework Simplicity is the ultimate sophistication. Optimization Big Data Kafka Don't be afraid to give up the good to go for the great. Replica Set
