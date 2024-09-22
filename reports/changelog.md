@@ -17,3 +17,4 @@ Framework Logging GraphQL Act as if what you do makes a difference. It does. Eve
 Cloud Big Data NLP Deployment Simplicity is the ultimate sophistication. IoT React I find that the harder I work, the more luck I seem to have.
 I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Multi-threading NLP Scalability Kafka Container Orchestration Replica Set Do what you love and the money will follow. DNS Routing
 Deployment A/B Testing React Monitoring Zero Downtime Deployment Testing Event-driven Architecture API Gateway Lambda Functions UX Optimization Framework
+Machine Learning Framework Dream big and dare to fail. Pull Request Testing Sharding Event-driven Architecture WebSockets Optimization Load Testing Happiness is not something ready made. It comes from your own actions. DevOps
