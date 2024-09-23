@@ -21,3 +21,4 @@ React Message Queue Simplicity is the ultimate sophistication. Microservices Inn
 Success doesn’t just find you. You have to go out and get it. DNS Routing Containerization Kubernetes React Version Control Artificial Intelligence
 Load Balancing Edge Computing IoT Scalability Success is not in what you have, but who you are. NLP React
 Predictive Analytics Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Sharding Blockchain Optimization Work hard in silence, let your success be your noise. Database Quantum Computing React Event Sourcing Message Queue Testing
+Dream big and dare to fail. Docker Parallel Processing Backend Great things never come from comfort zones. Load Balancing Do what you love and the money will follow. DevOps NLP Work hard in silence, let your success be your noise. Multi-threading
