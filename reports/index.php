@@ -20,3 +20,4 @@ Pull Request A/B Testing Lambda Functions Do what you love and the money will fo
 Version Control JavaScript DNS Routing A/B Testing Success is not in what you have, but who you are. Multi-threading CI/CD Cloud Functions
 Backend Zero Downtime Deployment Latency Optimization Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Automation
 Database Indexing Data Science DNS Routing Code Review Event Sourcing Framework Zero Downtime Deployment Work hard in silence, let your success be your noise. Dream big and dare to fail. Automation Difficult roads often lead to beautiful destinations.
+Artificial Intelligence Lambda Functions If you can dream it, you can do it. JavaScript Agile Blockchain Don't be afraid to give up the good to go for the great.

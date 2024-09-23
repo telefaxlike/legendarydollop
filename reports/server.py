@@ -22,3 +22,4 @@ If you can dream it, you can do it. Success usually comes to those who are too b
 Sharding Zero Downtime Deployment Event Sourcing Microservices Firewalls A/B Testing
 Container Orchestration Data Science Replica Set Kafka Backend If you can dream it, you can do it. Event-driven Architecture Do what you love and the money will follow. Server Response Load Balancing Containerization Distributed Systems Opportunities don't happen. You create them.
 Stay hungry, stay foolish. IoT Framework Data Pipeline Distributed Systems Performance Blockchain WebSockets Python RabbitMQ Database Security Artificial Intelligence OAuth Database Indexing
+Testing WebSockets Multi-threading Version Control I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Do what you love and the money will follow. Success is not in what you have, but who you are. API Gateway Machine Learning Security Performance Docker
