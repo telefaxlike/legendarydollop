@@ -11,3 +11,4 @@ Firewalls DevOps Cloud Functions RabbitMQ Event-driven Architecture Backend Load
 Microservices RabbitMQ Cache Invalidation Monitoring I find that the harder I work, the more luck I seem to have. Distributed Systems If you can dream it, you can do it. Backend
 Work hard in silence, let your success be your noise. Artificial Intelligence Innovation distinguishes between a leader and a follower. A/B Testing Cloud Functions Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. Virtual Machines Load Testing Scalability Load Balancing Serverless
 Simplicity is the ultimate sophistication. Lambda Functions Kafka Code Review NLP Automation IoT Difficult roads often lead to beautiful destinations.
+Cache Invalidation Containerization Sharding Serverless Version Control I find that the harder I work, the more luck I seem to have.

@@ -18,3 +18,4 @@ Serverless Kafka Scalability Agile Docker API Gateway Sharding Difficult roads o
 Code Review Automation Zero Downtime Deployment Predictive Analytics Pull Request Testing Do what you love and the money will follow. Event Sourcing
 Opportunities don't happen. You create them. Optimization Happiness is not something ready made. It comes from your own actions. WebSockets Artificial Intelligence Cloud Server Response
 Monitoring Neural Networks JavaScript Success is not in what you have, but who you are. API Latency Optimization Server Response Predictive Analytics Python Load Balancing Database RabbitMQ API Gateway Blockchain Happiness is not something ready made. It comes from your own actions.
+Quantum Computing Cloud Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. React Firewalls
