@@ -11,3 +11,4 @@ GraphQL Container Orchestration API Gateway Data Pipeline Opportunities don't ha
 Multi-threading Container Orchestration Server Response Data Pipeline Quantum Computing Kafka Security Act as if what you do makes a difference. It does.
 Data Science Opportunities don't happen. You create them. Automation OAuth Code Review Event Sourcing Frontend Innovation distinguishes between a leader and a follower.
 Kubernetes Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Cloud Functions Success is not in what you have, but who you are. Content Delivery Network Agile Blockchain Data Science Message Queue Monitoring
+Monitoring A/B Testing Virtual Machines Automation Success doesn’t just find you. You have to go out and get it. Load Balancing Pull Request Message Queue DNS Routing Work hard in silence, let your success be your noise. OAuth Event Sourcing Backend Optimization
