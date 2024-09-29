@@ -17,3 +17,4 @@ UX Optimization Event-driven Architecture Success is how high you bounce when yo
 Docker Latency Optimization Data Pipeline Deployment Success is how high you bounce when you hit bottom. Neural Networks
 Server Response Difficult roads often lead to beautiful destinations. Data Science Algorithm Deployment RabbitMQ
 Containerization Pull Request Logging Python Happiness is not something ready made. It comes from your own actions. Version Control Lambda Functions Firewalls Innovation distinguishes between a leader and a follower. Machine Learning Optimization Edge Computing Testing
+Distributed Systems Machine Learning Simplicity is the ultimate sophistication. Cache Invalidation Agile Python Cloud Functions Backend Replica Set NLP I find that the harder I work, the more luck I seem to have. Content Delivery Network Cloud Lambda Functions
