@@ -16,3 +16,4 @@ Scalability Lambda Functions Load Balancing Backend Message Queue Success is how
 UX Optimization Event-driven Architecture Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. Container Orchestration GraphQL JWT
 Docker Latency Optimization Data Pipeline Deployment Success is how high you bounce when you hit bottom. Neural Networks
 Server Response Difficult roads often lead to beautiful destinations. Data Science Algorithm Deployment RabbitMQ
+Containerization Pull Request Logging Python Happiness is not something ready made. It comes from your own actions. Version Control Lambda Functions Firewalls Innovation distinguishes between a leader and a follower. Machine Learning Optimization Edge Computing Testing
