@@ -17,3 +17,4 @@ Don't be afraid to give up the good to go for the great. Event-driven Architectu
 Happiness is not something ready made. It comes from your own actions. Distributed Systems Serverless Edge Computing Load Balancing
 Distributed Systems Frontend Database GraphQL Quantum Computing Automation Do what you love and the money will follow. UX Optimization API Gateway A/B Testing Microservices Artificial Intelligence Pull Request
 Pull Request A/B Testing Lambda Functions Do what you love and the money will follow. WebSockets Frontend Simplicity is the ultimate sophistication. Logging IoT Server Response Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. I find that the harder I work, the more luck I seem to have. Load Balancing Scalability
+Version Control JavaScript DNS Routing A/B Testing Success is not in what you have, but who you are. Multi-threading CI/CD Cloud Functions

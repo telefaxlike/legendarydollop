@@ -12,3 +12,4 @@ Backend Pull Request Blockchain Version Control Distributed Systems JWT Kafka Re
 Cloud Functions Monitoring Algorithm The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. WebSockets Framework Dream big and dare to fail. Event Sourcing Blockchain
 API Great things never come from comfort zones. Do what you love and the money will follow. Latency Optimization OAuth Edge Computing Backend Testing Logging
 Pull Request Framework Innovation distinguishes between a leader and a follower. CI/CD Version Control
+Algorithm Predictive Analytics Optimization Great things never come from comfort zones. Event Sourcing Framework A/B Testing Opportunities don't happen. You create them. Big Data API Edge Computing Zero Downtime Deployment Container Orchestration

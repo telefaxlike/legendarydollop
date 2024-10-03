@@ -20,3 +20,4 @@ Logging The only way to do great work is to love what you do. Predictive Analyti
 React Message Queue Simplicity is the ultimate sophistication. Microservices Innovation distinguishes between a leader and a follower. Big Data A/B Testing Server Response Distributed Systems NLP
 Success doesn’t just find you. You have to go out and get it. DNS Routing Containerization Kubernetes React Version Control Artificial Intelligence
 Load Balancing Edge Computing IoT Scalability Success is not in what you have, but who you are. NLP React
+Predictive Analytics Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Sharding Blockchain Optimization Work hard in silence, let your success be your noise. Database Quantum Computing React Event Sourcing Message Queue Testing
