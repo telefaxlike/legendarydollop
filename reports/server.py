@@ -19,3 +19,4 @@ Version Control Performance Edge Computing JavaScript Success usually comes to t
 Predictive Analytics Kafka Agile Sharding Parallel Processing Message Queue Server Response Edge Computing Load Balancing Latency Optimization
 Performance Event Sourcing Message Queue Container Orchestration Optimization
 If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it. Microservices Latency Optimization Work hard in silence, let your success be your noise. Kubernetes Predictive Analytics Success doesn’t just find you. You have to go out and get it. Content Delivery Network Backend I find that the harder I work, the more luck I seem to have. Frontend Docker
+Sharding Zero Downtime Deployment Event Sourcing Microservices Firewalls A/B Testing
