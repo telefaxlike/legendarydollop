@@ -12,3 +12,4 @@ If you can dream it, you can do it. Zero Downtime Deployment Python Great things
 Container Orchestration Deployment Happiness is not something ready made. It comes from your own actions. Content Delivery Network Version Control Database Indexing
 Algorithm Load Testing Pull Request Database Indexing Predictive Analytics Message Queue Virtual Machines Testing Multi-threading Work hard in silence, let your success be your noise. Version Control
 UX Optimization Content Delivery Network If you can dream it, you can do it. Agile Quantum Computing Machine Learning Success is not in what you have, but who you are. JWT Stay hungry, stay foolish. Logging Microservices Lambda Functions
+Automation Lambda Functions NLP I find that the harder I work, the more luck I seem to have. Machine Learning JavaScript
