@@ -9,3 +9,4 @@ GraphQL Do what you love and the money will follow. Artificial Intelligence If y
 Scalability If you can dream it, you can do it. Act as if what you do makes a difference. It does. Quantum Computing Predictive Analytics Multi-threading Version Control Zero Downtime Deployment NLP OAuth Firewalls Load Testing Microservices JWT
 GraphQL Container Orchestration API Gateway Data Pipeline Opportunities don't happen. You create them. A/B Testing Kubernetes Code Review Simplicity is the ultimate sophistication.
 Multi-threading Container Orchestration Server Response Data Pipeline Quantum Computing Kafka Security Act as if what you do makes a difference. It does.
+Data Science Opportunities don't happen. You create them. Automation OAuth Code Review Event Sourcing Frontend Innovation distinguishes between a leader and a follower.

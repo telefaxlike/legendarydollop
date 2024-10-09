@@ -18,3 +18,4 @@ Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. P
 Cache Invalidation Machine Learning Neural Networks CI/CD Backend OAuth
 Logging The only way to do great work is to love what you do. Predictive Analytics Deployment DevOps Don't be afraid to give up the good to go for the great. Database Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions.
 React Message Queue Simplicity is the ultimate sophistication. Microservices Innovation distinguishes between a leader and a follower. Big Data A/B Testing Server Response Distributed Systems NLP
+Success doesn’t just find you. You have to go out and get it. DNS Routing Containerization Kubernetes React Version Control Artificial Intelligence
