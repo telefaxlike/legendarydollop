@@ -7,3 +7,4 @@ CI/CD To be the best, you must be able to handle the worst. Success is how high 
 Agile Security Deployment Load Balancing GraphQL Pull Request Success doesn’t just find you. You have to go out and get it. Dream big and dare to fail. CI/CD
 Success usually comes to those who are too busy to be looking for it. Code Review Virtual Machines API Gateway Zero Downtime Deployment Firewalls Security JWT Message Queue Multi-threading A/B Testing Innovation distinguishes between a leader and a follower. UX Optimization
 Virtual Machines Success usually comes to those who are too busy to be looking for it. Backend Work hard in silence, let your success be your noise. Framework Parallel Processing RabbitMQ Scalability Message Queue Event-driven Architecture
+Multi-threading DNS Routing Performance Microservices Success is how high you bounce when you hit bottom. Blockchain Great things never come from comfort zones. GraphQL A/B Testing
