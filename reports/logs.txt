@@ -13,3 +13,4 @@ Great things never come from comfort zones. Server Response Simplicity is the ul
 Containerization The only way to do great work is to love what you do. Database Indexing Act as if what you do makes a difference. It does. Automation Dream big and dare to fail. Agile Stay hungry, stay foolish.
 Success usually comes to those who are too busy to be looking for it. Serverless Framework Lambda Functions Simplicity is the ultimate sophistication. Event-driven Architecture
 Work hard in silence, let your success be your noise. Docker Great things never come from comfort zones. Testing Serverless Deployment Cloud Functions API
+Message Queue Lambda Functions Data Science Blockchain Difficult roads often lead to beautiful destinations. RabbitMQ Edge Computing Act as if what you do makes a difference. It does. If you can dream it, you can do it. Distributed Systems Opportunities don't happen. You create them. Performance Deployment Event-driven Architecture Machine Learning
