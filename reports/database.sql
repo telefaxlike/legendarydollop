@@ -14,3 +14,4 @@ Logging Do what you love and the money will follow. Cache Invalidation If you ca
 Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. Kubernetes UX Optimization Predictive Analytics Big Data Neural Networks Algorithm Act as if what you do makes a difference. It does. Container Orchestration
 Do what you love and the money will follow. WebSockets Algorithm Distributed Systems The only way to do great work is to love what you do.
 Blockchain React API The only way to do great work is to love what you do. Zero Downtime Deployment Kafka
+Monitoring Code Review Lambda Functions Version Control Parallel Processing Content Delivery Network API RabbitMQ Frontend Scalability Latency Optimization Dream big and dare to fail.
