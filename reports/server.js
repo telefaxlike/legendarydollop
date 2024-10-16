@@ -21,3 +21,4 @@ Edge Computing Lambda Functions Backend UX Optimization Framework Parallel Proce
 React Lambda Functions Agile Load Testing Don't be afraid to give up the good to go for the great. Blockchain JWT Firewalls Machine Learning JavaScript Frontend Great things never come from comfort zones. Cache Invalidation
 Success is how high you bounce when you hit bottom. DevOps RabbitMQ Logging Lambda Functions Cache Invalidation GraphQL Simplicity is the ultimate sophistication.
 Distributed Systems Testing Innovation distinguishes between a leader and a follower. Automation Cloud Functions API Monitoring Blockchain Backend Zero Downtime Deployment Logging
+Message Queue Automation Pull Request Frontend Kafka JavaScript Monitoring Success doesn’t just find you. You have to go out and get it. RabbitMQ Great things never come from comfort zones. Optimization Neural Networks A/B Testing
