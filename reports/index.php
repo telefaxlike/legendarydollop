@@ -12,3 +12,4 @@ Containerization Cache Invalidation Kafka Version Control Microservices Great th
 Blockchain Database Deployment Difficult roads often lead to beautiful destinations. UX Optimization Scalability Backend Latency Optimization I find that the harder I work, the more luck I seem to have. Success is not in what you have, but who you are. Artificial Intelligence Optimization Load Balancing Logging
 OAuth Algorithm React CI/CD Cloud Functions Great things never come from comfort zones. Monitoring Agile DNS Routing Success doesn’t just find you. You have to go out and get it.
 Code Review Docker Event Sourcing DevOps Deployment RabbitMQ Monitoring Parallel Processing
+Python Serverless Latency Optimization Don't be afraid to give up the good to go for the great. WebSockets Dream big and dare to fail. Stay hungry, stay foolish. Replica Set Virtual Machines
