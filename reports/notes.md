@@ -8,3 +8,4 @@ The only way to do great work is to love what you do. Backend CI/CD Algorithm Re
 Optimization Monitoring Microservices Algorithm Success is not in what you have, but who you are. Replica Set Event-driven Architecture Artificial Intelligence Big Data Logging Version Control Neural Networks Testing Scalability CI/CD
 Stay hungry, stay foolish. Pull Request Framework CI/CD Act as if what you do makes a difference. It does. Blockchain Content Delivery Network RabbitMQ Big Data Difficult roads often lead to beautiful destinations. Data Science API Gateway Automation Latency Optimization Lambda Functions
 Firewalls DevOps Cloud Functions RabbitMQ Event-driven Architecture Backend Load Balancing Container Orchestration
+Microservices RabbitMQ Cache Invalidation Monitoring I find that the harder I work, the more luck I seem to have. Distributed Systems If you can dream it, you can do it. Backend
