@@ -10,3 +10,4 @@ Machine Learning Data Science The only way to do great work is to love what you 
 Multi-threading Scalability Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. IoT
 If you can dream it, you can do it. Zero Downtime Deployment Python Great things never come from comfort zones. The only way to do great work is to love what you do. Optimization Pull Request Load Balancing Cloud Containerization Algorithm Replica Set
 Container Orchestration Deployment Happiness is not something ready made. It comes from your own actions. Content Delivery Network Version Control Database Indexing
+Algorithm Load Testing Pull Request Database Indexing Predictive Analytics Message Queue Virtual Machines Testing Multi-threading Work hard in silence, let your success be your noise. Version Control
