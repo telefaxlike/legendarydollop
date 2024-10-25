@@ -12,3 +12,4 @@ Big Data Kafka Quantum Computing UX Optimization The only way to do great work i
 NLP Load Balancing Python Data Pipeline Algorithm Multi-threading Great things never come from comfort zones. Stay hungry, stay foolish. Big Data
 Logging Do what you love and the money will follow. Cache Invalidation If you can dream it, you can do it. Great things never come from comfort zones. Lambda Functions JWT DNS Routing Edge Computing DevOps Load Testing Version Control Sharding RabbitMQ Success is not in what you have, but who you are.
 Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. Kubernetes UX Optimization Predictive Analytics Big Data Neural Networks Algorithm Act as if what you do makes a difference. It does. Container Orchestration
+Do what you love and the money will follow. WebSockets Algorithm Distributed Systems The only way to do great work is to love what you do.

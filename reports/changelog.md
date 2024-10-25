@@ -15,3 +15,4 @@ Don't be afraid to give up the good to go for the great. Opportunities don't hap
 Lambda Functions Scalability Serverless Dream big and dare to fail. Server Response Edge Computing Content Delivery Network Agile Kubernetes Work hard in silence, let your success be your noise. Virtual Machines
 Framework Logging GraphQL Act as if what you do makes a difference. It does. Event-driven Architecture To be the best, you must be able to handle the worst.
 Cloud Big Data NLP Deployment Simplicity is the ultimate sophistication. IoT React I find that the harder I work, the more luck I seem to have.
+I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Multi-threading NLP Scalability Kafka Container Orchestration Replica Set Do what you love and the money will follow. DNS Routing
