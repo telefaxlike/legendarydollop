@@ -10,3 +10,4 @@ CI/CD Sharding Do what you love and the money will follow. Artificial Intelligen
 Firewalls IoT Zero Downtime Deployment Latency Optimization UX Optimization
 Big Data Kafka Quantum Computing UX Optimization The only way to do great work is to love what you do. Scalability WebSockets
 NLP Load Balancing Python Data Pipeline Algorithm Multi-threading Great things never come from comfort zones. Stay hungry, stay foolish. Big Data
+Logging Do what you love and the money will follow. Cache Invalidation If you can dream it, you can do it. Great things never come from comfort zones. Lambda Functions JWT DNS Routing Edge Computing DevOps Load Testing Version Control Sharding RabbitMQ Success is not in what you have, but who you are.
