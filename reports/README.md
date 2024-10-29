@@ -16,3 +16,4 @@ Quantum Computing If you can dream it, you can do it. Cloud Great things never c
 Pull Request Big Data Quantum Computing Algorithm Kubernetes Simplicity is the ultimate sophistication. Dream big and dare to fail. JavaScript Containerization Edge Computing
 Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. Pull Request Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. Kubernetes Edge Computing Container Orchestration Docker Load Balancing
 Cache Invalidation Machine Learning Neural Networks CI/CD Backend OAuth
+Logging The only way to do great work is to love what you do. Predictive Analytics Deployment DevOps Don't be afraid to give up the good to go for the great. Database Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions.
