@@ -9,3 +9,4 @@ Testing Scalability Optimization Edge Computing WebSockets Kafka Happiness is no
 JavaScript Cloud Functions Happiness is not something ready made. It comes from your own actions. Agile I find that the harder I work, the more luck I seem to have.
 Distributed Systems Data Science Edge Computing Algorithm Predictive Analytics Lambda Functions Frontend Zero Downtime Deployment Testing Success usually comes to those who are too busy to be looking for it. Performance Pull Request CI/CD Parallel Processing Kafka
 Containerization Cache Invalidation Kafka Version Control Microservices Great things never come from comfort zones. NLP Backend Security
+Blockchain Database Deployment Difficult roads often lead to beautiful destinations. UX Optimization Scalability Backend Latency Optimization I find that the harder I work, the more luck I seem to have. Success is not in what you have, but who you are. Artificial Intelligence Optimization Load Balancing Logging
