@@ -11,3 +11,4 @@ WebSockets Container Orchestration Do what you love and the money will follow. A
 Security UX Optimization Firewalls Content Delivery Network DevOps
 Backend Sharding Security Data Science Automation Opportunities don't happen. You create them. Pull Request Load Balancing Optimization Simplicity is the ultimate sophistication. React The only way to do great work is to love what you do.
 Edge Computing Cloud Functions Act as if what you do makes a difference. It does. Monitoring Kubernetes Containerization Difficult roads often lead to beautiful destinations.
+Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Work hard in silence, let your success be your noise. Performance Monitoring Security Pull Request CI/CD Replica Set Version Control Don't be afraid to give up the good to go for the great.
