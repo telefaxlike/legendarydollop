@@ -6,3 +6,4 @@ Docker DevOps Frontend API Distributed Systems Stay hungry, stay foolish. Event 
 CI/CD Simplicity is the ultimate sophistication. Distributed Systems API Gateway Cache Invalidation Docker Zero Downtime Deployment Version Control Success usually comes to those who are too busy to be looking for it. Replica Set API
 Python Stay hungry, stay foolish. Database Indexing Security Act as if what you do makes a difference. It does. Logging IoT RabbitMQ NLP Innovation distinguishes between a leader and a follower. Parallel Processing Serverless
 GraphQL Do what you love and the money will follow. Artificial Intelligence If you can dream it, you can do it. Performance
+Scalability If you can dream it, you can do it. Act as if what you do makes a difference. It does. Quantum Computing Predictive Analytics Multi-threading Version Control Zero Downtime Deployment NLP OAuth Firewalls Load Testing Microservices JWT

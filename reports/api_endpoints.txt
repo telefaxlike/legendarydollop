@@ -11,3 +11,4 @@ Performance Load Balancing If you can dream it, you can do it. Server Response L
 Code Review DevOps OAuth Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. Message Queue Cloud Security
 Predictive Analytics Happiness is not something ready made. It comes from your own actions. Logging Simplicity is the ultimate sophistication. Load Testing
 API Containerization Big Data Latency Optimization Container Orchestration Server Response Machine Learning
+Firewalls If you can dream it, you can do it. Data Pipeline Do what you love and the money will follow. Database Indexing OAuth Predictive Analytics Parallel Processing Microservices Event Sourcing Backend Cache Invalidation Load Testing Server Response Content Delivery Network
