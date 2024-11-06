@@ -10,3 +10,4 @@ Version Control CI/CD Scalability Logging Code Review Content Delivery Network A
 WebSockets Container Orchestration Do what you love and the money will follow. Algorithm UX Optimization Stay hungry, stay foolish. DevOps Docker Machine Learning Opportunities don't happen. You create them.
 Security UX Optimization Firewalls Content Delivery Network DevOps
 Backend Sharding Security Data Science Automation Opportunities don't happen. You create them. Pull Request Load Balancing Optimization Simplicity is the ultimate sophistication. React The only way to do great work is to love what you do.
+Edge Computing Cloud Functions Act as if what you do makes a difference. It does. Monitoring Kubernetes Containerization Difficult roads often lead to beautiful destinations.
