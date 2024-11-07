@@ -10,3 +10,4 @@ Containerization Message Queue Cache Invalidation WebSockets Great things never 
 Performance Load Balancing If you can dream it, you can do it. Server Response Lambda Functions Deployment Frontend Database Indexing Success doesn’t just find you. You have to go out and get it.
 Code Review DevOps OAuth Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. Message Queue Cloud Security
 Predictive Analytics Happiness is not something ready made. It comes from your own actions. Logging Simplicity is the ultimate sophistication. Load Testing
+API Containerization Big Data Latency Optimization Container Orchestration Server Response Machine Learning
