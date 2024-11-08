@@ -8,3 +8,4 @@ Firewalls JWT Cache Invalidation I find that the harder I work, the more luck I 
 Latency Optimization Containerization Load Balancing Deployment Multi-threading
 Cloud NLP Performance Container Orchestration GraphQL Event-driven Architecture Multi-threading API
 Cloud Algorithm Latency Optimization Backend Don't be afraid to give up the good to go for the great. Kubernetes Database Indexing Work hard in silence, let your success be your noise. Container Orchestration Predictive Analytics API Gateway Great things never come from comfort zones. Automation Containerization
+To be the best, you must be able to handle the worst. Lambda Functions Neural Networks Dream big and dare to fail. Frontend DNS Routing Artificial Intelligence Predictive Analytics Monitoring
