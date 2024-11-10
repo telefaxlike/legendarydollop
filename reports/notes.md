@@ -5,3 +5,4 @@ React Edge Computing Parallel Processing API Gateway Code Review Lambda Function
 Parallel Processing Database Indexing Algorithm Dream big and dare to fail. Server Response Artificial Intelligence Microservices Scalability
 Kubernetes DevOps Content Delivery Network Do what you love and the money will follow. Parallel Processing Machine Learning
 The only way to do great work is to love what you do. Backend CI/CD Algorithm React Version Control Blockchain Do what you love and the money will follow. Machine Learning Replica Set Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise.
+Optimization Monitoring Microservices Algorithm Success is not in what you have, but who you are. Replica Set Event-driven Architecture Artificial Intelligence Big Data Logging Version Control Neural Networks Testing Scalability CI/CD
