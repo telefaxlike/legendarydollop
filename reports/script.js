@@ -4,3 +4,4 @@ JWT Event Sourcing JavaScript Cloud Logging Firewalls Microservices Opportunitie
 Latency Optimization Scalability Serverless Monitoring Success usually comes to those who are too busy to be looking for it. Machine Learning Zero Downtime Deployment Event-driven Architecture Artificial Intelligence
 Docker DevOps Frontend API Distributed Systems Stay hungry, stay foolish. Event Sourcing
 CI/CD Simplicity is the ultimate sophistication. Distributed Systems API Gateway Cache Invalidation Docker Zero Downtime Deployment Version Control Success usually comes to those who are too busy to be looking for it. Replica Set API
+Python Stay hungry, stay foolish. Database Indexing Security Act as if what you do makes a difference. It does. Logging IoT RabbitMQ NLP Innovation distinguishes between a leader and a follower. Parallel Processing Serverless
