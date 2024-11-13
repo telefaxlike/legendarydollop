@@ -8,3 +8,4 @@ Monitoring Serverless The only way to do great work is to love what you do. Even
 Microservices Lambda Functions WebSockets Security I find that the harder I work, the more luck I seem to have. Serverless IoT Predictive Analytics
 Machine Learning Data Science The only way to do great work is to love what you do. Do what you love and the money will follow. Automation Blockchain Python Monitoring
 Multi-threading Scalability Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. IoT
+If you can dream it, you can do it. Zero Downtime Deployment Python Great things never come from comfort zones. The only way to do great work is to love what you do. Optimization Pull Request Load Balancing Cloud Containerization Algorithm Replica Set
