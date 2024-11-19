@@ -8,3 +8,4 @@ Latency Optimization I find that the harder I work, the more luck I seem to have
 Monitoring Act as if what you do makes a difference. It does. Framework Event-driven Architecture Firewalls Do what you love and the money will follow.
 Python Success is not in what you have, but who you are. Security Simplicity is the ultimate sophistication. Neural Networks Event Sourcing Frontend
 I find that the harder I work, the more luck I seem to have. Cloud Functions Opportunities don't happen. You create them. Cache Invalidation Automation Cloud Act as if what you do makes a difference. It does. Stay hungry, stay foolish.
+Backend Pull Request Blockchain Version Control Distributed Systems JWT Kafka Replica Set Edge Computing Algorithm Event Sourcing Act as if what you do makes a difference. It does. Load Testing Big Data Database Indexing
