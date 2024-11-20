@@ -7,3 +7,4 @@ Edge Computing Content Delivery Network Python Firewalls Container Orchestration
 Monitoring Serverless The only way to do great work is to love what you do. Event Sourcing WebSockets Kafka A/B Testing If you can dream it, you can do it. Distributed Systems Success is not in what you have, but who you are. Testing Neural Networks Container Orchestration
 Microservices Lambda Functions WebSockets Security I find that the harder I work, the more luck I seem to have. Serverless IoT Predictive Analytics
 Machine Learning Data Science The only way to do great work is to love what you do. Do what you love and the money will follow. Automation Blockchain Python Monitoring
+Multi-threading Scalability Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. IoT

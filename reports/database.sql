@@ -9,3 +9,4 @@ Distributed Systems Zero Downtime Deployment Innovation distinguishes between a 
 CI/CD Sharding Do what you love and the money will follow. Artificial Intelligence Predictive Analytics API Gateway Big Data Cloud Functions Containerization IoT Success usually comes to those who are too busy to be looking for it. Performance Cache Invalidation WebSockets
 Firewalls IoT Zero Downtime Deployment Latency Optimization UX Optimization
 Big Data Kafka Quantum Computing UX Optimization The only way to do great work is to love what you do. Scalability WebSockets
+NLP Load Balancing Python Data Pipeline Algorithm Multi-threading Great things never come from comfort zones. Stay hungry, stay foolish. Big Data
