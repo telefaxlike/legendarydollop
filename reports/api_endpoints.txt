@@ -7,3 +7,4 @@ Database Database Indexing Act as if what you do makes a difference. It does. Do
 Success is how high you bounce when you hit bottom. Kubernetes Distributed Systems Code Review Event-driven Architecture Act as if what you do makes a difference. It does. Database
 Database Latency Optimization Deployment JWT Blockchain
 Containerization Message Queue Cache Invalidation WebSockets Great things never come from comfort zones. Backend Do what you love and the money will follow. Machine Learning Framework API Gateway Algorithm Version Control Serverless
+Performance Load Balancing If you can dream it, you can do it. Server Response Lambda Functions Deployment Frontend Database Indexing Success doesn’t just find you. You have to go out and get it.
