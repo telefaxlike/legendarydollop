@@ -11,3 +11,4 @@ Database Server Response Success is how high you bounce when you hit bottom. Doc
 Version Control Scalability Security Microservices Cache Invalidation Firewalls Success doesn’t just find you. You have to go out and get it. Quantum Computing If you can dream it, you can do it.
 Event Sourcing Automation Security Microservices Do what you love and the money will follow. JavaScript Success doesn’t just find you. You have to go out and get it. Distributed Systems Quantum Computing Pull Request Act as if what you do makes a difference. It does. Docker Code Review Framework Kubernetes
 DNS Routing Serverless IoT Agile Automation Docker Act as if what you do makes a difference. It does. Framework
+API Gateway Python API Edge Computing Message Queue Content Delivery Network To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. Multi-threading Container Orchestration CI/CD Load Balancing

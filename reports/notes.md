@@ -4,3 +4,4 @@ Great things never come from comfort zones. Virtual Machines Database Cloud Func
 React Edge Computing Parallel Processing API Gateway Code Review Lambda Functions Pull Request Serverless Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. JWT Docker Predictive Analytics
 Parallel Processing Database Indexing Algorithm Dream big and dare to fail. Server Response Artificial Intelligence Microservices Scalability
 Kubernetes DevOps Content Delivery Network Do what you love and the money will follow. Parallel Processing Machine Learning
+The only way to do great work is to love what you do. Backend CI/CD Algorithm React Version Control Blockchain Do what you love and the money will follow. Machine Learning Replica Set Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise.
