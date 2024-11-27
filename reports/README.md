@@ -12,3 +12,4 @@ Version Control RabbitMQ Data Pipeline Frontend Testing Message Queue Success us
 Performance Optimization Python Do what you love and the money will follow. Deployment Simplicity is the ultimate sophistication. Artificial Intelligence Pull Request Lambda Functions Neural Networks
 Docker Pull Request Load Balancing Message Queue Quantum Computing Dream big and dare to fail.
 Code Review Difficult roads often lead to beautiful destinations. Kafka Happiness is not something ready made. It comes from your own actions. Kubernetes
+Quantum Computing If you can dream it, you can do it. Cloud Great things never come from comfort zones. NLP
