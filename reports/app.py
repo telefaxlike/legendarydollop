@@ -8,3 +8,4 @@ Optimization Deployment Work hard in silence, let your success be your noise. AP
 Simplicity is the ultimate sophistication. Parallel Processing RabbitMQ Cloud Containerization
 Version Control CI/CD Scalability Logging Code Review Content Delivery Network Agile Multi-threading JWT Container Orchestration Happiness is not something ready made. It comes from your own actions. Cache Invalidation
 WebSockets Container Orchestration Do what you love and the money will follow. Algorithm UX Optimization Stay hungry, stay foolish. DevOps Docker Machine Learning Opportunities don't happen. You create them.
+Security UX Optimization Firewalls Content Delivery Network DevOps
