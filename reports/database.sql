@@ -8,3 +8,4 @@ Neural Networks Act as if what you do makes a difference. It does. Event-driven 
 Distributed Systems Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Testing Code Review Quantum Computing A/B Testing Cloud Functions Data Science Database Indexing
 CI/CD Sharding Do what you love and the money will follow. Artificial Intelligence Predictive Analytics API Gateway Big Data Cloud Functions Containerization IoT Success usually comes to those who are too busy to be looking for it. Performance Cache Invalidation WebSockets
 Firewalls IoT Zero Downtime Deployment Latency Optimization UX Optimization
+Big Data Kafka Quantum Computing UX Optimization The only way to do great work is to love what you do. Scalability WebSockets
