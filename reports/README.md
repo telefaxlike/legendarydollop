@@ -11,3 +11,4 @@ Event-driven Architecture Great things never come from comfort zones. Code Revie
 Version Control RabbitMQ Data Pipeline Frontend Testing Message Queue Success usually comes to those who are too busy to be looking for it.
 Performance Optimization Python Do what you love and the money will follow. Deployment Simplicity is the ultimate sophistication. Artificial Intelligence Pull Request Lambda Functions Neural Networks
 Docker Pull Request Load Balancing Message Queue Quantum Computing Dream big and dare to fail.
+Code Review Difficult roads often lead to beautiful destinations. Kafka Happiness is not something ready made. It comes from your own actions. Kubernetes

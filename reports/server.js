@@ -11,3 +11,4 @@ Latency Optimization Load Testing Don't be afraid to give up the good to go for 
 Security Monitoring Success usually comes to those who are too busy to be looking for it. Cache Invalidation Firewalls OAuth Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Optimization Load Balancing
 Data Science Virtual Machines Zero Downtime Deployment Predictive Analytics Stay hungry, stay foolish. Lambda Functions Monitoring Pull Request
 Event Sourcing Neural Networks Testing Database The only way to do great work is to love what you do. Performance Opportunities don't happen. You create them. Scalability JavaScript UX Optimization Success doesn’t just find you. You have to go out and get it. Firewalls
+Event Sourcing Blockchain Firewalls Great things never come from comfort zones. Distributed Systems Containerization
