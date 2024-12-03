@@ -10,3 +10,4 @@ Testing Cloud Functions Serverless Load Balancing Security Parallel Processing I
 Event-driven Architecture Great things never come from comfort zones. Code Review Stay hungry, stay foolish. Do what you love and the money will follow. React Success is how high you bounce when you hit bottom. Testing Frontend WebSockets Load Testing
 Version Control RabbitMQ Data Pipeline Frontend Testing Message Queue Success usually comes to those who are too busy to be looking for it.
 Performance Optimization Python Do what you love and the money will follow. Deployment Simplicity is the ultimate sophistication. Artificial Intelligence Pull Request Lambda Functions Neural Networks
+Docker Pull Request Load Balancing Message Queue Quantum Computing Dream big and dare to fail.

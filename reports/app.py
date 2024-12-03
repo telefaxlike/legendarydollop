@@ -7,3 +7,4 @@ Load Balancing Deployment Optimization Cache Invalidation Microservices
 Optimization Deployment Work hard in silence, let your success be your noise. API Load Balancing Difficult roads often lead to beautiful destinations. Dream big and dare to fail. Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Message Queue Cache Invalidation Virtual Machines
 Simplicity is the ultimate sophistication. Parallel Processing RabbitMQ Cloud Containerization
 Version Control CI/CD Scalability Logging Code Review Content Delivery Network Agile Multi-threading JWT Container Orchestration Happiness is not something ready made. It comes from your own actions. Cache Invalidation
+WebSockets Container Orchestration Do what you love and the money will follow. Algorithm UX Optimization Stay hungry, stay foolish. DevOps Docker Machine Learning Opportunities don't happen. You create them.
