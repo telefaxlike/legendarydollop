@@ -9,3 +9,4 @@ Great things never come from comfort zones. Data Science Microservices Dream big
 Data Science Content Delivery Network Code Review Success usually comes to those who are too busy to be looking for it. Load Testing Database DevOps Neural Networks API
 Database Server Response Success is how high you bounce when you hit bottom. Docker Virtual Machines Multi-threading
 Version Control Scalability Security Microservices Cache Invalidation Firewalls Success doesn’t just find you. You have to go out and get it. Quantum Computing If you can dream it, you can do it.
+Event Sourcing Automation Security Microservices Do what you love and the money will follow. JavaScript Success doesn’t just find you. You have to go out and get it. Distributed Systems Quantum Computing Pull Request Act as if what you do makes a difference. It does. Docker Code Review Framework Kubernetes

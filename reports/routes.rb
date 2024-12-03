@@ -6,3 +6,4 @@ Sharding Server Response Latency Optimization GraphQL Happiness is not something
 Scalability DNS Routing Artificial Intelligence Automation Monitoring
 Latency Optimization I find that the harder I work, the more luck I seem to have. Big Data Great things never come from comfort zones. Data Pipeline Optimization Replica Set Database Indexing Firewalls Happiness is not something ready made. It comes from your own actions. Predictive Analytics Logging Virtual Machines
 Monitoring Act as if what you do makes a difference. It does. Framework Event-driven Architecture Firewalls Do what you love and the money will follow.
+Python Success is not in what you have, but who you are. Security Simplicity is the ultimate sophistication. Neural Networks Event Sourcing Frontend
