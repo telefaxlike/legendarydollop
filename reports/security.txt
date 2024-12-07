@@ -7,3 +7,4 @@ Firewalls GraphQL Microservices WebSockets Pull Request API Gateway Machine Lear
 Simplicity is the ultimate sophistication. Testing Artificial Intelligence Replica Set Cloud Data Science Success is how high you bounce when you hit bottom. Data Pipeline Automation Edge Computing Kafka
 JavaScript Testing RabbitMQ Load Testing Cloud Agile
 Automation A/B Testing API Dream big and dare to fail. Performance UX Optimization Cloud Data Science I find that the harder I work, the more luck I seem to have. Server Response DevOps Simplicity is the ultimate sophistication. Logging RabbitMQ
+Lambda Functions React Virtual Machines Firewalls Multi-threading Frontend Microservices Optimization
