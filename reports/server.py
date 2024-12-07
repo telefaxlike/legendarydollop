@@ -8,3 +8,4 @@ Serverless Event-driven Architecture JavaScript Deployment JWT Server Response
 Great things never come from comfort zones. Data Science Microservices Dream big and dare to fail. Do what you love and the money will follow. Predictive Analytics Algorithm
 Data Science Content Delivery Network Code Review Success usually comes to those who are too busy to be looking for it. Load Testing Database DevOps Neural Networks API
 Database Server Response Success is how high you bounce when you hit bottom. Docker Virtual Machines Multi-threading
+Version Control Scalability Security Microservices Cache Invalidation Firewalls Success doesn’t just find you. You have to go out and get it. Quantum Computing If you can dream it, you can do it.
