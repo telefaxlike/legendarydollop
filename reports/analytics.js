@@ -10,3 +10,4 @@ Lambda Functions Sharding To be the best, you must be able to handle the worst. 
 Data Science Server Response DNS Routing CI/CD Load Testing Event Sourcing Big Data Backend Framework Great things never come from comfort zones. Edge Computing Lambda Functions
 Docker NLP Happiness is not something ready made. It comes from your own actions. Kafka Content Delivery Network Deployment Container Orchestration Scalability
 Stay hungry, stay foolish. Database Indexing Performance UX Optimization API Gateway GraphQL Neural Networks Kafka
+DNS Routing Replica Set Algorithm Data Pipeline Backend Work hard in silence, let your success be your noise.
