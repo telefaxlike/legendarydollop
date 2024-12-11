@@ -9,3 +9,4 @@ Latency Optimization Cache Invalidation Dream big and dare to fail. I find that 
 Lambda Functions Sharding To be the best, you must be able to handle the worst. Data Science If you can dream it, you can do it. Pull Request CI/CD Serverless Deployment
 Data Science Server Response DNS Routing CI/CD Load Testing Event Sourcing Big Data Backend Framework Great things never come from comfort zones. Edge Computing Lambda Functions
 Docker NLP Happiness is not something ready made. It comes from your own actions. Kafka Content Delivery Network Deployment Container Orchestration Scalability
+Stay hungry, stay foolish. Database Indexing Performance UX Optimization API Gateway GraphQL Neural Networks Kafka
