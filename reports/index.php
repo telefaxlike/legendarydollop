@@ -4,3 +4,4 @@ Difficult roads often lead to beautiful destinations. Python Database Indexing S
 Artificial Intelligence Dream big and dare to fail. UX Optimization Performance Security Microservices Firewalls Success is how high you bounce when you hit bottom. React Backend Event Sourcing Database Indexing Neural Networks
 Python OAuth Microservices DevOps Containerization Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise.
 Replica Set DevOps WebSockets OAuth Kubernetes GraphQL Scalability Success usually comes to those who are too busy to be looking for it. Cloud Algorithm Cloud Functions Firewalls If you can dream it, you can do it. Machine Learning
+Content Delivery Network Data Pipeline Data Science Parallel Processing Edge Computing Multi-threading API Gateway Algorithm Stay hungry, stay foolish. Kubernetes Blockchain Happiness is not something ready made. It comes from your own actions. Quantum Computing Virtual Machines
