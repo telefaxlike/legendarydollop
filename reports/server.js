@@ -9,3 +9,4 @@ Container Orchestration Success is how high you bounce when you hit bottom. Opti
 If you can dream it, you can do it. Code Review Happiness is not something ready made. It comes from your own actions. Message Queue Database Indexing
 Latency Optimization Load Testing Don't be afraid to give up the good to go for the great. Backend JavaScript Load Balancing
 Security Monitoring Success usually comes to those who are too busy to be looking for it. Cache Invalidation Firewalls OAuth Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Optimization Load Balancing
+Data Science Virtual Machines Zero Downtime Deployment Predictive Analytics Stay hungry, stay foolish. Lambda Functions Monitoring Pull Request

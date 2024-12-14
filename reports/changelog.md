@@ -9,3 +9,4 @@ Predictive Analytics The only way to do great work is to love what you do. Happi
 IoT API Load Balancing Serverless Server Response Kafka Innovation distinguishes between a leader and a follower. Cache Invalidation Framework DNS Routing Database Success is how high you bounce when you hit bottom.
 Simplicity is the ultimate sophistication. Load Testing Kafka Act as if what you do makes a difference. It does. Event Sourcing Scalability CI/CD Machine Learning DevOps
 Version Control Optimization Do what you love and the money will follow. NLP Cloud Scalability Don't be afraid to give up the good to go for the great. JavaScript RabbitMQ Artificial Intelligence Difficult roads often lead to beautiful destinations. Multi-threading Event Sourcing Cache Invalidation
+API Gateway Version Control Cloud Functions Machine Learning Success is how high you bounce when you hit bottom. OAuth Distributed Systems Artificial Intelligence Cache Invalidation
