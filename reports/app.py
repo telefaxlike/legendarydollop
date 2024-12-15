@@ -4,3 +4,4 @@ Success usually comes to those who are too busy to be looking for it. Do what yo
 Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst. Container Orchestration Virtual Machines Machine Learning Data Pipeline
 RabbitMQ Success doesn’t just find you. You have to go out and get it. Backend I find that the harder I work, the more luck I seem to have. Monitoring Load Testing Work hard in silence, let your success be your noise. Artificial Intelligence JWT GraphQL Python OAuth Containerization
 Load Balancing Deployment Optimization Cache Invalidation Microservices
+Optimization Deployment Work hard in silence, let your success be your noise. API Load Balancing Difficult roads often lead to beautiful destinations. Dream big and dare to fail. Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Message Queue Cache Invalidation Virtual Machines
