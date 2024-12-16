@@ -5,3 +5,4 @@ I find that the harder I work, the more luck I seem to have. Multi-threading Mes
 UX Optimization Message Queue Content Delivery Network To be the best, you must be able to handle the worst. Lambda Functions Success is how high you bounce when you hit bottom. CI/CD NLP
 Firewalls GraphQL Microservices WebSockets Pull Request API Gateway Machine Learning Automation
 Simplicity is the ultimate sophistication. Testing Artificial Intelligence Replica Set Cloud Data Science Success is how high you bounce when you hit bottom. Data Pipeline Automation Edge Computing Kafka
+JavaScript Testing RabbitMQ Load Testing Cloud Agile
