@@ -9,3 +9,4 @@ Success doesn’t just find you. You have to go out and get it. Act as if what you
 Testing Cloud Functions Serverless Load Balancing Security Parallel Processing IoT Message Queue
 Event-driven Architecture Great things never come from comfort zones. Code Review Stay hungry, stay foolish. Do what you love and the money will follow. React Success is how high you bounce when you hit bottom. Testing Frontend WebSockets Load Testing
 Version Control RabbitMQ Data Pipeline Frontend Testing Message Queue Success usually comes to those who are too busy to be looking for it.
+Performance Optimization Python Do what you love and the money will follow. Deployment Simplicity is the ultimate sophistication. Artificial Intelligence Pull Request Lambda Functions Neural Networks
