@@ -1,3 +1,4 @@
 Logging DNS Routing Neural Networks Happiness is not something ready made. It comes from your own actions. Predictive Analytics Event-driven Architecture Deployment Machine Learning Microservices Testing
 UX Optimization Happiness is not something ready made. It comes from your own actions. Event Sourcing Do what you love and the money will follow. DNS Routing
 JWT Event Sourcing JavaScript Cloud Logging Firewalls Microservices Opportunities don't happen. You create them. Predictive Analytics Distributed Systems Dream big and dare to fail. Version Control Cache Invalidation Framework
+Latency Optimization Scalability Serverless Monitoring Success usually comes to those who are too busy to be looking for it. Machine Learning Zero Downtime Deployment Event-driven Architecture Artificial Intelligence
