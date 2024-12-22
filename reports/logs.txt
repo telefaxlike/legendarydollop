@@ -6,3 +6,4 @@ Containerization Kafka Database Indexing OAuth Virtual Machines If you can dream
 API Gateway UX Optimization Blockchain Database Docker Python Success is how high you bounce when you hit bottom. Do what you love and the money will follow. Multi-threading Latency Optimization Load Testing
 Firewalls JWT Cache Invalidation I find that the harder I work, the more luck I seem to have. Automation Backend Virtual Machines Agile Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Predictive Analytics Container Orchestration Artificial Intelligence Message Queue
 Latency Optimization Containerization Load Balancing Deployment Multi-threading
+Cloud NLP Performance Container Orchestration GraphQL Event-driven Architecture Multi-threading API
