@@ -7,3 +7,4 @@ Multi-threading Testing Opportunities don't happen. You create them. CI/CD Loggi
 Pull Request Server Response Blockchain Load Testing Virtual Machines Event-driven Architecture Serverless A/B Testing React Edge Computing Deployment JWT Logging Testing
 Predictive Analytics The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Performance JavaScript Success usually comes to those who are too busy to be looking for it. Backend Logging DNS Routing Multi-threading Work hard in silence, let your success be your noise.
 IoT API Load Balancing Serverless Server Response Kafka Innovation distinguishes between a leader and a follower. Cache Invalidation Framework DNS Routing Database Success is how high you bounce when you hit bottom.
+Simplicity is the ultimate sophistication. Load Testing Kafka Act as if what you do makes a difference. It does. Event Sourcing Scalability CI/CD Machine Learning DevOps
