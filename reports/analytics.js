@@ -6,3 +6,4 @@ RabbitMQ The only way to do great work is to love what you do. Cloud Functions L
 Innovation distinguishes between a leader and a follower. Virtual Machines Great things never come from comfort zones. Quantum Computing Blockchain
 Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise. JavaScript Zero Downtime Deployment Security RabbitMQ JWT API Frontend Data Science Distributed Systems Microservices
 Latency Optimization Cache Invalidation Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Automation
+Lambda Functions Sharding To be the best, you must be able to handle the worst. Data Science If you can dream it, you can do it. Pull Request CI/CD Serverless Deployment
