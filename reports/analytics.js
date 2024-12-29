@@ -5,3 +5,4 @@ Data Pipeline Big Data Work hard in silence, let your success be your noise. Gre
 RabbitMQ The only way to do great work is to love what you do. Cloud Functions Load Balancing Framework JavaScript JWT API Gateway Stay hungry, stay foolish. UX Optimization Sharding Success doesn’t just find you. You have to go out and get it. Logging
 Innovation distinguishes between a leader and a follower. Virtual Machines Great things never come from comfort zones. Quantum Computing Blockchain
 Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise. JavaScript Zero Downtime Deployment Security RabbitMQ JWT API Frontend Data Science Distributed Systems Microservices
+Latency Optimization Cache Invalidation Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Automation

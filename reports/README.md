@@ -7,3 +7,4 @@ Sharding Frontend Performance Replica Set Scalability Parallel Processing Conten
 Data Science Message Queue Don't be afraid to give up the good to go for the great. JWT Containerization Algorithm Docker Python Replica Set Dream big and dare to fail.
 Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. DevOps Containerization Algorithm
 Testing Cloud Functions Serverless Load Balancing Security Parallel Processing IoT Message Queue
+Event-driven Architecture Great things never come from comfort zones. Code Review Stay hungry, stay foolish. Do what you love and the money will follow. React Success is how high you bounce when you hit bottom. Testing Frontend WebSockets Load Testing
