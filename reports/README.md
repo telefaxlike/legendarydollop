@@ -5,3 +5,4 @@ Do what you love and the money will follow. NLP Optimization Agile To be the bes
 Agile GraphQL Don't be afraid to give up the good to go for the great. Performance Python RabbitMQ Distributed Systems Content Delivery Network API Server Response Edge Computing
 Sharding Frontend Performance Replica Set Scalability Parallel Processing Content Delivery Network DNS Routing Microservices Don't be afraid to give up the good to go for the great. API Gateway
 Data Science Message Queue Don't be afraid to give up the good to go for the great. JWT Containerization Algorithm Docker Python Replica Set Dream big and dare to fail.
+Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. DevOps Containerization Algorithm
