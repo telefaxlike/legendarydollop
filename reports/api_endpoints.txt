@@ -3,3 +3,4 @@ The only way to do great work is to love what you do. Big Data Event-driven Arch
 DNS Routing Message Queue Pull Request Sharding Opportunities don't happen. You create them.
 Testing Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. Event-driven Architecture Containerization
 Quantum Computing Code Review GraphQL RabbitMQ Cloud Functions Pull Request Happiness is not something ready made. It comes from your own actions. Containerization Opportunities don't happen. You create them.
+Database Database Indexing Act as if what you do makes a difference. It does. Docker If you can dream it, you can do it. Parallel Processing Simplicity is the ultimate sophistication. Blockchain Cloud Virtual Machines
