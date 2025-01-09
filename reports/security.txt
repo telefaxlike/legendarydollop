@@ -1,3 +1,4 @@
 Backend Security Frontend Do what you love and the money will follow. OAuth Agile Scalability Message Queue Database Indexing Neural Networks API Gateway
 Cloud Data Science Load Testing Version Control Firewalls Dream big and dare to fail. JWT Frontend React GraphQL
 JavaScript Edge Computing Agile Parallel Processing Event-driven Architecture Database
+I find that the harder I work, the more luck I seem to have. Multi-threading Message Queue Serverless Agile Content Delivery Network Happiness is not something ready made. It comes from your own actions. IoT WebSockets Dream big and dare to fail. Success is not in what you have, but who you are.
