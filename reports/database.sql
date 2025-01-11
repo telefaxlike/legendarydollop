@@ -4,3 +4,4 @@ Framework Latency Optimization IoT Testing Stay hungry, stay foolish. JavaScript
 NLP DNS Routing Blockchain Firewalls Deployment Event-driven Architecture
 Edge Computing Testing NLP Version Control Frontend Neural Networks Algorithm Artificial Intelligence Message Queue
 Agile Event-driven Architecture Automation API Gateway Dream big and dare to fail. Don't be afraid to give up the good to go for the great. Code Review I find that the harder I work, the more luck I seem to have. Virtual Machines Artificial Intelligence Load Balancing React Logging
+Neural Networks Act as if what you do makes a difference. It does. Event-driven Architecture RabbitMQ JWT DNS Routing If you can dream it, you can do it. API Virtual Machines Cloud Algorithm Database Indexing Sharding Cache Invalidation Do what you love and the money will follow.
