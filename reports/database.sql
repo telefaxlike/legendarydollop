@@ -3,3 +3,4 @@ Simplicity is the ultimate sophistication. Neural Networks DNS Routing Kubernete
 Framework Latency Optimization IoT Testing Stay hungry, stay foolish. JavaScript
 NLP DNS Routing Blockchain Firewalls Deployment Event-driven Architecture
 Edge Computing Testing NLP Version Control Frontend Neural Networks Algorithm Artificial Intelligence Message Queue
+Agile Event-driven Architecture Automation API Gateway Dream big and dare to fail. Don't be afraid to give up the good to go for the great. Code Review I find that the harder I work, the more luck I seem to have. Virtual Machines Artificial Intelligence Load Balancing React Logging
