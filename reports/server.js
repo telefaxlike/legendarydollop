@@ -3,3 +3,4 @@ API Gateway Kubernetes NLP Content Delivery Network Parallel Processing Cache In
 DevOps Docker Work hard in silence, let your success be your noise. React Kafka Innovation distinguishes between a leader and a follower. Python IoT Data Science To be the best, you must be able to handle the worst.
 DNS Routing GraphQL Big Data Server Response To be the best, you must be able to handle the worst. JavaScript Algorithm Zero Downtime Deployment Performance Code Review
 JWT API Gateway Database Server Response Machine Learning Python Opportunities don't happen. You create them. Artificial Intelligence Docker Cache Invalidation Automation To be the best, you must be able to handle the worst. Framework
+Cloud Functions Server Response Machine Learning Kubernetes Performance JavaScript Optimization Innovation distinguishes between a leader and a follower. Load Testing To be the best, you must be able to handle the worst.
