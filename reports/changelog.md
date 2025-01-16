@@ -3,3 +3,4 @@ Agile Data Pipeline DNS Routing Machine Learning Version Control To be the best,
 Success usually comes to those who are too busy to be looking for it. Replica Set Testing Data Science Database Indexing A/B Testing Version Control
 Blockchain CI/CD Distributed Systems Lambda Functions Parallel Processing Success doesn’t just find you. You have to go out and get it. A/B Testing Event-driven Architecture
 Lambda Functions Algorithm Event-driven Architecture Do what you love and the money will follow. Great things never come from comfort zones. UX Optimization Message Queue Data Pipeline Simplicity is the ultimate sophistication. Firewalls
+Multi-threading Testing Opportunities don't happen. You create them. CI/CD Logging Difficult roads often lead to beautiful destinations. Kubernetes Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it.
