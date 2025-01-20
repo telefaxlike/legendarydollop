@@ -2,3 +2,4 @@ Sharding Big Data DevOps Simplicity is the ultimate sophistication. Security Pre
 Simplicity is the ultimate sophistication. Neural Networks DNS Routing Kubernetes Logging Blockchain Big Data Great things never come from comfort zones.
 Framework Latency Optimization IoT Testing Stay hungry, stay foolish. JavaScript
 NLP DNS Routing Blockchain Firewalls Deployment Event-driven Architecture
+Edge Computing Testing NLP Version Control Frontend Neural Networks Algorithm Artificial Intelligence Message Queue
