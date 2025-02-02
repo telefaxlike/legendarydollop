@@ -1,1 +1,2 @@
 Backend NLP DNS Routing Latency Optimization API If you can dream it, you can do it. OAuth Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it.
+The only way to do great work is to love what you do. Big Data Event-driven Architecture RabbitMQ WebSockets Containerization Cloud Functions Container Orchestration Content Delivery Network Agile Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Edge Computing Python
